@@ -1,0 +1,266 @@
+{
+  "heading": "G8_Perimeter",
+  "topics": [
+    {
+      "heading": "Perimeter",
+      "questions": [
+
+
+  {
+    "questionNo": 1,
+    "question": [
+      "What is the perimeter of this square?"
+    ],
+    "options": [
+      { "text": "3 cm" },
+      { "text": "4 cm" },
+      { "text": "5 cm" },
+      { "text": "6 cm" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/17.png"
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Find its perimeter of this parallelogram."
+    ],
+    "options": [
+      { "text": "400 mm" },
+      { "text": "40 mm" },
+      { "text": "4 mm" },
+      { "text": "0.4 mm" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/18.png"
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "A trapezium has sides as given below.<br>",
+      "Find its perimeter."
+    ],
+    "options": [
+      { "text": "2800 cm" },
+      { "text": "3200 cm" },
+      { "text": "320 cm" },
+      { "text": "340 cm" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/19.png"
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "What is the perimeter of the following kite with labeled sides?"
+    ],
+    "options": [
+      { "text": "78 cm" },
+      { "text": "70 cm" },
+      { "text": "66 cm" },
+      { "text": "96 cm" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/20.png"
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Two sides of a triangle are 16 cm and 13 cm. The perimeter is 41 cm.<br>",
+      "The third side is ______ cm."
+    ],
+    "input": [""],
+    "answer": ["12"]
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "An isosceles triangle has two equal sides of 15 cm each. Its perimeter is 42 cm.<br>",
+      "The third side is ______ cm."
+    ],
+    "input": [""],
+    "answer": ["12"]
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "The perimeter of a rectangle is 88 cm.<br>",
+      "If its length is 30 cm, then its width is ______ cm."
+    ],
+    "input": [""],
+    "answer": ["14"]
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "The perimeter of a rectangle is 160 m.<br>",
+      "If its width is 35 m, then its length is ______ cm."
+    ],
+    "input": [""],
+    "answer": ["4500"]
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A kite has two equal sides of 13 cm each and the other two equal sides of 10 cm each.<br>",
+      "Its perimeter is ______ mm."
+    ],
+    "input": [""],
+    "answer": ["460"]
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "An isosceles trapezium has parallel sides measuring 18 cm and 12 cm. Each of the equal non-parallel sides measures 9 cm.<br>",
+      "Its perimeter is ______ mm."
+    ],
+    "input": [""],
+    "answer": ["480"]
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "A square has a perimeter of 6.4 m.<br>",
+      "The length of each side is ______ cm."
+    ],
+    "input": [""],
+    "answer": ["160"]
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "The perimeter of a square is 96 cm.<br>",
+      "The length of each side is ______ mm."
+    ],
+    "input": [""],
+    "answer": ["240"]
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "The total boundary length of a rectangle is 108 cm. The length is twice the width.<br>",
+      "The width is ______ m."
+    ],
+    "input": [""],
+    "answer": ["0.18"]
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "The total distance around a rectangle is 92 cm. The length is 8 cm more than the width.<br>",
+      "The length is ______ m."
+    ],
+    "input": [""],
+    "answer": ["0.27"]
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "The total boundary length of a rhombus is 96 cm.<br>",
+      "Each side is ______ mm."
+    ],
+    "input": [""],
+    "answer": ["240"]
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "The outer boundary length of a kite is 60 cm.<br>",
+      "One pair of equal sides measures 18 cm each.<br>",
+      "The other pair of equal sides measures ______ mm each."
+    ],
+    "input": [""],
+    "answer": ["120"]
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "The outer boundary length of a rectangle is 84 cm. The width is half the length.<br>",
+      "The length of the rectangle is ______ mm."
+    ],
+    "input": [""],
+    "answer": ["280"]
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "The perimeter for the following kite is ______ cm.<br>",
+      "<img src='./assests/images/question/21.png' width='30%'>"
+    ],
+    "input": [""],
+    "answer": ["66"]
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "Diagonals of a rhombus are 10 cm and 24 cm. What is its perimeter?"
+    ],
+    "options": [
+      { "text": "52 cm" },
+      { "text": "60 cm" },
+      { "text": "64 cm" },
+      { "text": "68 cm" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/22.png"
+  },
+  {
+    "questionNo": 20,
+    "question": [
+      "Noah says,<br>",
+      "\"If each side of a square is reduced to half its original length, the perimeter also becomes half.\"<br>",
+      "Is Noah correct?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 21,
+    "question": [
+      "Sophia says,<br>",
+      "\"If only the length of a rectangle is doubled while the width stays the same, the perimeter doubles.\"<br>",
+      "Is Sophia correct?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 22,
+    "question": [
+      "Jack says,<br>",
+      "\"If the length of a rectangle decreases by 4 cm and the width increases by 4 cm, its perimeter stays the same.\"<br>",
+      "Is Jack correct?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 23,
+    "question": [
+      "Grace says,<br>",
+      "\"If the side length of a rhombus is reduced by 25%, its perimeter is also reduced by 25%.\"<br>",
+      "Is Grace correct?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  }
+
+
+
+
+      ]
+    }
+  ]
+}
